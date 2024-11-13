@@ -24,7 +24,7 @@
     
         
         var d = "worse";
-        var h = "worst"
+        var h = "worst";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
