@@ -24,7 +24,7 @@
     
         
         var d = "bluer";
-        var h = "bluest"
+        var h = "bluest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
