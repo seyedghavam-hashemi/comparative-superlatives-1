@@ -24,7 +24,7 @@
     
         
         var d = "bloodier";
-        var h = "bloodiest"
+        var h = "bloodiest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
