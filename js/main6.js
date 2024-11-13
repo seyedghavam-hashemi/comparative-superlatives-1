@@ -24,7 +24,7 @@
     
         
         var d = "blander";
-        var h = "blandest"
+        var h = "blandest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
