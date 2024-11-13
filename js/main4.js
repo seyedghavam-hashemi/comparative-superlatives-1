@@ -24,7 +24,7 @@
     
         
         var d = "bitterer";
-        var h = "bitterest"
+        var h = "bitterest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
