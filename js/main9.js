@@ -24,7 +24,7 @@
     
         
         var d = "bolder";
-        var h = "boldest"
+        var h = "boldest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
