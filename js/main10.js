@@ -24,7 +24,7 @@
     
         
         var d = "bossier";
-        var h = "bossiest"
+        var h = "bossiest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
