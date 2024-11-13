@@ -24,7 +24,7 @@
     
         
         var d = "angrier";
-        var h = "angriest"
+        var h = "angriest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
