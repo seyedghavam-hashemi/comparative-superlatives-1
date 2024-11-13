@@ -24,7 +24,7 @@
     
         
         var d = "blacker";
-        var h = "blackest"
+        var h = "blackest";
         
         if (c==d && g==h){
                 /*document.getElementById("cLabel2").innerHTML = true;*/
